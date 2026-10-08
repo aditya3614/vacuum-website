@@ -14,7 +14,7 @@ export default function Hero() {
           <span className="dot" />
           macOS 13+ · Apple Silicon
         </span>
-        <h1>Suck it up. Put it back.</h1>
+        <h1>Clear your desktop. Keep every file.</h1>
         <p className="lede">
           A little vacuum cleaner for your Mac desktop. Push it over the clutter, and when you want your files
           back, each one lands exactly where it was.
