@@ -1,5 +1,5 @@
-export const DOWNLOAD_URL = "https://github.com/aditya3614/vacuum-mac-app/releases/latest/download/Vacuum.zip";
-export const RELEASES_URL = "https://github.com/aditya3614/vacuum-mac-app/releases";
+export const DOWNLOAD_URL = "https://github.com/aditya3614/vacuum-website/releases/latest/download/Vacuum.zip";
+export const RELEASES_URL = "https://github.com/aditya3614/vacuum-website/releases";
 export const VERSION = "1.0";
 export const BAG_PATH = "~/Library/Application Support/Vacuum/Bag";
 export const UNQUARANTINE = "xattr -dr com.apple.quarantine /Applications/Vacuum.app";
